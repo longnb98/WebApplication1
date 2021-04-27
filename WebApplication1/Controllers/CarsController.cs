@@ -11,10 +11,12 @@ namespace WebApplication1.Controllers
     [ApiController]
     public class CarsController : ControllerBase
     {
+
         IEnumerable<string> car = new List<string>
         {
             "Ford","Mercedes","Toyota","Kia"
         };
+        [HttpGet]
         public IEnumerable<string> Index()
         {
             return car;
