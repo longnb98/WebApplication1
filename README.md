@@ -1,15 +1,15 @@
-[-] Attribute Routing
+# Attribute Routing
 
-[-] Route Constraints
+# Route Constraints
 
-[-] HTTPGET 
+# HTTPGET 
 
-[-] HTTPPOST 
+# HTTPPOST 
 
-[-] HTTPPUT 
+# HTTPPUT 
 
-[-] HTTPDELETE 
+# HTTPDELETE 
 
-[-] Dependency Injection
+# Dependency Injection
 
-[-] Swagger
+# Swagger
